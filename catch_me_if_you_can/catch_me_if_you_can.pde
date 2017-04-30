@@ -1,3 +1,11 @@
+/*
+Project:   Catch Me If You Can
+Author:    Ali Umut Koca
+Date:      April 29, 2017
+Ver:       alpha_v1
+Thanks to: Chrisir, GoToLoop, koogs, kfrajer 
+*/
+
 //Time
 int lastTimeCheck;
 
